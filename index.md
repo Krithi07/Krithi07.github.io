@@ -35,7 +35,7 @@ _Currently reading super awesome [Elixir in Action](https://www.manning.com/book
 
 ## Follow me
 
-Ashish Singh ([Twitter](http://twitter.com/ashishait)/[GitHub](http://github.com/ashish173)/[Blog](https://medium.com/@ashishait))
+Kritika Jalan ([Twitter](http://twitter.com/ashishait)/[GitHub](http://github.com/ashish173)/[Blog](https://medium.com/@ashishait))
 
 ---
 
