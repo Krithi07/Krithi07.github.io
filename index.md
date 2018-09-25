@@ -8,7 +8,7 @@ layout: default
 
 ## What I believe in?
 
-__A hipster developer who thinks code `maintainability` and `extensibility` are the most critical things in software development; libraries and frameworks come last.__
+__A hipster developer who thinks code blah blah `maintainability` and `extensibility` are the most critical things in software development; libraries and frameworks come last.__
 
 ---
 
