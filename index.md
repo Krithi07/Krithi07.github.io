@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Ashish Singh](https://gravatar.com/avatar/3cfa0f5170e627390fdd2acaec874b86.jpg?s=300)
+![Kritika Jalan](https://gravatar.com/avatar/3cfa0f5170e627390fdd2acaec874b86.jpg?s=300)
 
 ---
 
