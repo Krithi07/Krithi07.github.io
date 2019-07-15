@@ -25,11 +25,12 @@ Experience in development of algorithms for predictive modeling, classification,
 
 ---
 
-## Other than work?
+## Other than work
 
 * I love reading and the last book I read was a memoir by Phil Knight, Shoe Dog. I would re-read it scores of times in my lifetime. Currently, I am savouring some Maya Angelou. 
 * Being a literature lover, I pen poetries and the latest I wrote, talks about changing times.
 * I am learning to play piano using Udemy. Let's see how far I go!
+
 ---
 
 ### License
