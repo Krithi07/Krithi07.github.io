@@ -18,17 +18,18 @@ Experience in development of algorithms for predictive modeling, classification,
 
 ---
 
-## ACHIEVEMENTS
+## Achievements
 
-* Published a research paper in an International Journal, for which, I designed an algorithm and successfully implemented it on the simulator.
+* Published a [research paper](http://www.tjprc.org/publishpapers/2-15-1377328181-8.%20Approach%20to%20design.full.pdf) in an International Journal, for which, I designed an algorithm and successfully implemented it on the simulator.
 * DeepLearning.ai Amabassador, read about it [here](https://www.linkedin.com/pulse/deeplearningai-amabassador-kritika-jalan/).
 
 ---
 
-## WHAT I'M LOOKING FOR
+## Other than work?
 
-An opportunity to work with a company that can use my skills and give me something to brainstorm upon every single day. Where there's a huge scope of learning and experimentation along with building amazing predictive models
-
+* I love reading and the last book I read was a memoir by Phil Knight, Shoe Dog. I would re-read it scores of times in my lifetime. Currently, I am savouring some Maya Angelou. 
+* Being a literature lover, I pen poetries and the latest I wrote, talks about changing times.
+* I am learning to play piano using Udemy. Let's see how far I go!
 ---
 
 ### License
