@@ -31,6 +31,112 @@ Experience in development of algorithms for predictive modeling, classification,
 * Being a literature lover, I pen poetries and the latest I wrote, talks about changing times.
 * I am learning to play piano using Udemy. Let's see how far I go!
 
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Portfolio | John Doe</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Portfolio" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="First description Second description View My LinkedIn Profile" />
+<meta property="og:description" content="First description Second description View My LinkedIn Profile" />
+<link rel="canonical" href="https://yourawesomeusername.github.io/" />
+<meta property="og:url" content="https://yourawesomeusername.github.io/" />
+<meta property="og:site_name" content="John Doe" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Portfolio","url":"https://yourawesomeusername.github.io/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://yourawesomeusername.github.io/images/logo.png?raw=true"}},"name":"John Doe","description":"First description Second description View My LinkedIn Profile","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=08546ed06f6282fc33b1a67789559c0007732123">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://yourawesomeusername.github.io/">John Doe</a></h1>
+        
+        
+          <img src="/images/logo.png?raw=true" alt="Logo" />
+        
+
+        <p>First description  <br><br> Second description  <br><br> <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+</p>
+
+        
+
+        
+        <p class="view"><a href="https://github.com/yourawesomeusername">View My GitHub Profile</a></p>
+        
+
+        
+      </header>
+      <section>
+
+      <h2 id="portfolio">Portfolio</h2>
+
+<hr />
+
+<h3 id="category-name-1">Category Name 1</h3>
+
+<p><a href="/sample_page">Project 1 Title</a>
+<img src="images/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+<p><a href="/pdf/sample_presentation.pdf">Project 2 Title</a>
+<img src="images/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+<p><a href="http://example.com/">Project 3 Title</a>
+<img src="images/dummy_thumbnail.jpg?raw=true" /></p>
+
+<hr />
+
+<h3 id="category-name-2">Category Name 2</h3>
+
+<ul>
+  <li><a href="http://example.com/">Project 1 Title</a></li>
+  <li><a href="http://example.com/">Project 2 Title</a></li>
+  <li><a href="http://example.com/">Project 3 Title</a></li>
+  <li><a href="http://example.com/">Project 4 Title</a></li>
+  <li><a href="http://example.com/">Project 5 Title</a></li>
+</ul>
+
+<hr />
+
+<hr />
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
+
+
+      </section>
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-000000-0', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>
+
 ---
 
 ### License
