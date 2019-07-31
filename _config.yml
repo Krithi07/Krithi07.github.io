@@ -1,10 +1,12 @@
 # Site settings
 title: Kritika Jalan - Data Scientist
 tag_text: Kritika Jalan
-description: Have worked with Telcos, Pharmacos, Tech Giants and Retailers across the globe.
-
-# Build settings
-markdown: kramdown
-exclude: ["README.md"]
-sass:
-  style: compressed
+logo: ![Kritika Jalan](https://avatars2.githubusercontent.com/u/9217362) # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Have worked with Telcos, Pharmacos, Tech Giants and Retailers across the globe.
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
